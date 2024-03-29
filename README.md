@@ -10,4 +10,3 @@ News Feed: Display a feed of news articles from various sources.
 User Profile: Allow users to manage their profile and reading preferences.
 Recommendation Engine: Develop a machine learning model that learns from the user’s reading habits and recommends articles based on their interests.
 Feedback System: Allow users to rate the recommended articles, which can be used to further improve the recommendation engine.
-Technologies:
